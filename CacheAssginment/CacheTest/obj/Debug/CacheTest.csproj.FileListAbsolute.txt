@@ -1,0 +1,6 @@
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\bin\Debug\CacheTest.exe.config
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\bin\Debug\CacheTest.exe
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\bin\Debug\CacheTest.pdb
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\obj\Debug\CacheTest.exe
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\obj\Debug\CacheTest.pdb
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\CacheTest\obj\Debug\CacheTest.csprojResolveAssemblyReference.cache

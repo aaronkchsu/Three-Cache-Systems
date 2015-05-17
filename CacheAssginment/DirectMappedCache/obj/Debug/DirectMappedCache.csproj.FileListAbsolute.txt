@@ -1,0 +1,1 @@
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\DirectMappedCache\obj\Debug\DirectMappedCache.csprojResolveAssemblyReference.cache

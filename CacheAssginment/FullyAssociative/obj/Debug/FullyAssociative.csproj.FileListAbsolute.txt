@@ -1,0 +1,5 @@
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\FullyAssociative\bin\Debug\FullyAssociative.exe.config
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\FullyAssociative\bin\Debug\FullyAssociative.exe
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\FullyAssociative\bin\Debug\FullyAssociative.pdb
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\FullyAssociative\obj\Debug\FullyAssociative.exe
+c:\users\kc\documents\visual studio 2013\Projects\CacheAssginment\FullyAssociative\obj\Debug\FullyAssociative.pdb
